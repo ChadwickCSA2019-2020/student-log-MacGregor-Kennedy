@@ -1,5 +1,5 @@
 # Wednesday, November  9, 2022 03:35 PM
- # makeup-questions for student log
+ # makeup-questions.log.md
 
  # Videos 7-10
 
@@ -53,4 +53,3 @@ How did you implement moving platforms in your game?
 2. you have to create a class and sprite sheet and run a set.moving platform.png for the platform to work and work in the game.
 How did you implement sounds in your game?
 3. What you do is add a new sound and choose which one fits your game. You also have to run a code that shows that you sound is detected by the game and for it ble to work in the game.# Wednesday, November  9, 2022 04:13 PM
-- [ ]
